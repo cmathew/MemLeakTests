@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cert_hostname">platform.deliv.co</string>
+    <string name="cert_pin_1">sha1/oyH9W/Mq+b9lzcHH2zNSaGwe87U=</string>
+    <string name="cert_pin_2">sha1/LHspp8BlMzJeqfRrY/MmhzxEa3Q=</string>
+</resources>

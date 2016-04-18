@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="production_api_host">https://api.deliv.co/v2</string>
+    <string name="development_api_host">https://api-staging.deliv.co/v2</string>
+
+    <string name="production_host">deliv.co</string>
+    <string name="development_host">staging.deliv.co</string>
+
+    <string name="production_mobile_host">https://m.deliv.co</string>
+    <string name="development_mobile_host">https://m-staging.deliv.co</string>
+</resources>
